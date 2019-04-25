@@ -1,0 +1,183 @@
+@CHARSET "ISO-8859-1";
+@import "normalize.css";
+@import "customhover.css";
+@import "animate.css";
+@import "hover.css";
+@import "commonStyle.css";
+
+.container{
+   width: auto;
+}
+
+.panel-heading{
+  display: none;
+}
+
+.topHead{ margin: -10px 0px 7px; }
+
+/*admin home*/
+.adminHome ul li{
+  list-style: none;
+}
+.mb-5{
+   margin-bottom: 5px;
+}
+.image-thumbnail {
+    width: 200px;
+    height: 200px;
+    padding-top: 15%;
+    margin: 10%;
+    color: #fff;
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+    /*background-position: center center;*/
+    background-color: #2ecc71;
+    border-radius: 50%; 
+}
+
+.image-thumbnail:hover {
+  background-color: #9b59b6;
+  color: #fff;
+}
+
+.table thead th{
+  text-align: center;
+  font-size: 20px;
+}
+.table thead { 
+  background: #607D8B;
+}
+
+/*create account*/
+body{
+   background-color: #f1f1f1;
+}
+.register-form{
+   margin: 10px auto;
+   padding: 25px 20px;
+   background: #3a1975;
+   box-shadow: 2px 2px 4px #ab8de0;
+   border-radius: 5px;
+   color: #fff;
+}
+
+/* .register-form form {
+  margin-top: 0px;
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+  border: 1px solid #fff;
+}*/
+
+.register-form .col-md-4 .form-group {
+   /*border: 1px solid #fff;*/
+   /*padding: 2px;*/
+  } 
+.viewEmployee .col-md-8{
+   text-align: center;
+}
+
+.viewEmployee{
+  padding: 2px 20px;
+  background: #3a1975;
+  box-shadow: 2px 2px 4px #ab8de0;
+  border-radius: 5px;
+  color: #fff;  
+}
+
+.viewEmployee .col-md-8 {
+   padding: 2px;
+   background: #636e72;
+} 
+
+.viewEmployee .row{
+   border: 1px solid #fff;
+}
+
+.viewEmployee label {
+   margin-bottom: 0px;
+   font-weight: normal;
+}
+
+.viewEmployee .col-form-label {
+    color: white;
+    font-size: 17px;
+}
+
+/*edit Employee*/
+
+.editAccount .col-md-4{
+   text-align: left;
+}
+
+.editAccount{
+  padding: 25px 20px;
+  background: #3a1975;
+  box-shadow: 2px 2px 4px #ab8de0;
+  border-radius: 5px;
+  color: #fff;  
+}
+
+.editAccount .col-md-8 {
+   padding: 2px;
+   background: #636e72;
+} 
+
+.editAccount .row{
+   border: 1px solid #fff;
+}
+
+.editAccount label {
+   /*margin-bottom: 0px;*/
+   font-weight: normal;
+}
+
+.editAccount .col-form-label {
+    color: white;
+    font-size: 17px;
+}
+
+.container .register-form input[type=radio] {
+   border: 1px solid #fff;
+   padding: 0px;
+}
+
+.register-form .gender label{
+   font-size : 16px;
+   color: blue;
+}
+
+.register-form .gender input[type=radio]{
+   -ms-transform: scale(2); /* IE */
+ -moz-transform: scale(2); /* FF */
+ -webkit-transform: scale(1.1); /* Safari and Chrome */
+ -o-transform: scale(2); /* Opera */
+  margin-left: 0px;
+  margin-right: 5px;
+}
+
+.register-form .gender{
+  background-color: #1abc9c;
+  height: auto;
+  width: auto;
+  padding: 5px;
+}
+
+/*dataTable*/
+.table > thead > tr > th {
+    font-size: 16px !important;
+    padding-bottom: 2px !important;
+    padding-top: 5px !important;
+}
+
+.table > tbody > tr > td, 
+.table > tfoot > tr > td {
+   padding: 5px 8px;
+}
+.table label {
+   margin-bottom: 0px;
+}
+
+table.dataTable {
+   margin-top: 0px !important;
+}
