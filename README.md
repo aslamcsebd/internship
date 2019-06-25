@@ -31,3 +31,14 @@
     <img src="https://github.com/user-attachments/assets/606171ad-f8de-40a2-a445-9f64b5e0da6b">
     <img src="https://github.com/user-attachments/assets/523b21af-01c7-4bec-924a-3bbbc870aa2a">
 </details>
+
+### 3) [Job portal](https://github.com/aslamcsebd/internship/tree/main/job_portal)
+
+<details>
+    <summary>See project screenshot</summary>
+    <img src="https://github.com/user-attachments/assets/9989627d-07d2-45da-afe2-8f9cd74cb59f">
+    <img src="https://github.com/user-attachments/assets/142f8633-14c3-4f6a-b784-cae3bc7df586">
+    <img src="https://github.com/user-attachments/assets/ada8cb8e-f4ee-41b8-b168-12e0007c0095">
+    <img src="https://github.com/user-attachments/assets/f7975e21-4018-4933-b02a-ab916279793b">
+    <img src="https://github.com/user-attachments/assets/963b4560-e8ac-41f9-81b8-5a1aca7d887a">
+</details>
